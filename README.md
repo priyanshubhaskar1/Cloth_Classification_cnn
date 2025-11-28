@@ -1,5 +1,11 @@
 **Clothing dataset** (subset)
 
+This project makes use of a publicly available dataset provided by [Alexey Grigorev](https://github.com/alexeygrigorev) through his GitHub repository. I sincerely acknowledge and thank him for sharing high-quality, well-structured, and openly accessible data for educational and research purposes.
+
+The dataset has played a crucial role in training and evaluating the deep learning model used in this project. His contribution to the open-source community has significantly supported students and developers in building real-world machine learning applications.
+
+All rights and credits for the original dataset remain with the original author. This project strictly uses the data for educational and non-commercial research purposes, with full respect to the creator’s ownership and contribution.
+
 This is a subset of the full clothing dataset with the top-10 most popular classes.
 
 This dataset can be freely used for any purpose. For example:
