@@ -4,8 +4,8 @@ This is a subset of the full clothing dataset with the top-10 most popular class
 
 This dataset can be freely used for any purpose. For example:
 
-*Training a model for self-education
-*Creating a tutorial or a course (free or paid)
+* Training a model for self-education
+* Creating a tutorial or a course (free or paid)
 *Writing a book
 **Examples**
 
