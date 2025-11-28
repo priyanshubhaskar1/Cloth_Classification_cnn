@@ -8,11 +8,13 @@ Training a model for self-education
 Creating a tutorial or a course (free or paid)
 Writing a book
 **Examples**
+
 https://github.com/alexeygrigorev/mlbookcamp-code/blob/master/chapter-07-neural-nets/07-neural-nets-train.ipynb
 Add a link here
 Do you use this dataset somewhere? Please submit a PR with a link
 
 **Acknowledgements**
+
 We'd like to thank
 
 Kenes Shangereyev and Tagias.com for helping with 3000 images
