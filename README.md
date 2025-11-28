@@ -1,5 +1,6 @@
 ![image alt](https://github.com/priyanshubhaskar1/Cloth_Classification_cnn/blob/034a63028adeb4abac0c888b259acbca363548c6/9-class-clothing-classification-using-CNN.png)
 
+
 ✅ **Model Description**
 
 This project implements a deep learning–based image classification model built using the Xception Convolutional Neural Network (CNN) architecture. The model is designed to perform multi-class image classification with high accuracy by leveraging transfer learning on a pre-trained network.
